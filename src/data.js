@@ -1,4 +1,4 @@
-// ముందుగా Third-party integration ల జాబితా dummy data రూపంలో ఇచ్చాం
+
 const integrations = [
   {
     id: 1,
